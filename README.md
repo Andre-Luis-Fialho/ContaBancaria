@@ -2,7 +2,7 @@
 Conta Bancária - Projeto Java
 Sistema simples de conta bancária no terminal.
 
- #Projeto
+ # Projeto
 ## Conta Bancária - Simulação em Java
 
 Este é um projeto básico desenvolvido em **Java** para fins de estudo
