@@ -14,13 +14,5 @@ Este é um projeto básico desenvolvido em **Java** para fins de estudo
 * **Transferir Valor:** Realiza a retirada de valores (com validação de saldo).
 * **Menu Interativo:** Interface intuitiva via linha de comando.
 
-## 💻 Como usar
 
-Certifique-se de ter o JDK instalado em sua máquina, então execute os comandos abaixo no seu terminal:
 
-```bash
-# Compilar o arquivo
-javac ContaBancaria.java
-
-# Executar o programa
-java ContaBancaria
